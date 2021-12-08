@@ -10,4 +10,5 @@ int main(int argc, char *argv[])
     return a.exec();
 }
 //comment
-//coment branch1
+//comment branch1
+//conflict branch1
